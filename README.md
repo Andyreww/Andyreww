@@ -5,7 +5,7 @@ I'm an undergraduate student at Denison University currently pursuing my degree 
 
 ![ezgif-1-b2c122ae5e](https://github.com/Andyreww/Andyreww/assets/98863478/02019efd-88f1-444e-af7a-5b2709fff9f5)
 
-<h2> 🚀 &nbsp;Tools I learned</h2>
+<h2>  &nbsp;Tools I learned</h2>
 <p align="left">
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="vscode" width="45" height="45"/>
@@ -22,10 +22,7 @@ I'm an undergraduate student at Denison University currently pursuing my degree 
     - A tool that helps players have the best in-game experience
 
 ## Connect With me
-- If you have any questions/feedback, feel free to reach out
-
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/Andyrew)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
-
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Andyreww)
+- If you have any questions/feedback, feel free to reach out
