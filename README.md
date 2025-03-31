@@ -13,7 +13,6 @@ I'm an undergraduate student at Denison University currently pursuing my degree 
 | Project Name | Description | Link |
 |---|---|---|
 | Genshin Impact: Assistant | Assist players with Google Gemini build curation and character inspection, enhancing their in-game experience. | [![Github](https://img.shields.io/github/stars/Andyreww/Genshin-Impact-Assistant?style=social)](https://github.com/Andyreww/Genshin-Impact-Assistant) |
-| StockOracle | Trading bot that leverages Google Gemini to help traders make much safer trades | [![Github](https://img.shields.io/github/stars/Andyreww/StockOracle?style=social)](https://github.com/Andyreww/StockOracle) |
 
 ---
 ## Connect With me
