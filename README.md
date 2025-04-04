@@ -10,10 +10,16 @@ I'm an undergraduate student at Denison University currently pursuing my degree 
 
 ## What I'm Working on:
 
-| Project Name | Description | Link |
-|---|---|---|
-| Genshin Impact: Assistant | Assist players with Google Gemini build curation and character inspection, enhancing their in-game experience. | [![Github](https://img.shields.io/github/stars/Andyreww/Genshin-Impact-Assistant?style=social)](https://github.com/Andyreww/Genshin-Impact-Assistant) |
+| Project Name               | Description                                                                 | Link                                                                                                                                     |
+|---------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Genshin Impact: Assistant | Assists players with Google Gemini build curation and character inspection, enhancing their in-game experience. | [![GitHub Stars](https://img.shields.io/github/stars/Andyreww/Genshin-Impact-Assistant?style=social)](https://github.com/Andyreww/Genshin-Impact-Assistant) |
+| Portfolio Website         | Personal portfolio website for job applications.                            | [![GitHub Stars](https://img.shields.io/github/stars/Andyreww/Portfolio?style=social)](https://github.com/Andyreww/Portfolio) |
+| LinkPal                   | An AI networker to help you land an interview.                              | Private Repo                                                                                                                             |
 
 ---
-## Connect With me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/andyreew) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andyreeeww) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andyrew) 
+
+## Connect with Me
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/andyreew)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/andyreeeww)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/andyrew)
